@@ -1,0 +1,6 @@
+framework module Pods_DeezerDemoTests {
+  umbrella header "Pods-DeezerDemoTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
